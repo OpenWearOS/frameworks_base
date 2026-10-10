@@ -1,0 +1,13 @@
+arguments=--init-script /home/kitsune/.cache/nvim/jdtls/config_c71e1556d8541f0722d7c7a7f1b9b1b26426dc88adaa625b11930ff1960554b4/org.eclipse.osgi/58/0/.cp/gradle/init/init.gradle
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=
+java.home=/usr/lib/jvm/java-21-openjdk
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=true
+show.executions.view=true
